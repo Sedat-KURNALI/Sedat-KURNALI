@@ -24,7 +24,11 @@
   <code><img title="Git" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/git-original.svg"></code>
   <code><img title="Html5" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/HTML5.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/Postgresql.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/github.svg"></code><code><img title="Hibernate" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/hibernate.png"></code><code><img title="Lambda" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/lambda.png"></code>code><img title="CSS" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/CSS3.png"></code>code><img title="JavaScript" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/js.png"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/github.svg"></code>
+  <code><img title="Hibernate" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/hibernate.png"></code>
+  <code><img title="Lambda" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/lambda.png"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/CSS3.png"></code>
+  <code><img title="JavaScript" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/js.png"></code>
 </p>
 <hr>
 <h5 align="center">
