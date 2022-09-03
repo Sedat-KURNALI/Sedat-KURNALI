@@ -29,6 +29,8 @@
   <code><img title="Lambda" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/lambda.png"></code>
   <code><img title="CSS" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/CSS3.png"></code>
   <code><img title="JavaScript" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/js.png"></code>
+  <code><img title="Scrum" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/scrum.png"></code>
+  
 </p>
 <hr>
 <h5 align="center">
