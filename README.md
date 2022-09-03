@@ -30,7 +30,7 @@
   <code><img title="CSS" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/CSS3.png"></code>
   <code><img title="JavaScript" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/js.png"></code>
   <code><img title="Scrum" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/scrum.png"></code>
-  
+  <code><img title="Jira" height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/jira.png"></code>  
 </p>
 <hr>
 <h5 align="center">
