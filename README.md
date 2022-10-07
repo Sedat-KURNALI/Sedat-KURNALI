@@ -35,5 +35,5 @@
 <hr>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/sedat-kurnali-518028241/" title="My LinkedIn Profile"><img height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/sedatkurnali/" title="My LinkedIn Profile"><img height="25" src="https://github.com/Sedat-KURNALI/Sedat-KURNALI/blob/main/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
